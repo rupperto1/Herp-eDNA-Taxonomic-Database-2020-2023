@@ -4,4 +4,4 @@
 
 #### For tissue collaborators, if you wish to see only your sample sequences, please refer to the tables provided in your individual tissue reports with codes for your samples and they can be found in the files on this repository. ####
 
-#### For any questions or concerns, please contact rupperto@msu.edu. ####
+#### For any questions or concerns, please contact ruppert.56@osu.edu. ####
